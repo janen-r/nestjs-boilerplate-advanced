@@ -2,7 +2,7 @@
 
 Readymade Nest Js Boilerplate with Advanced Features Setup
 
-![Nest.js Logo](https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_169927.png)
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_169927.png" alt="Nest.js Logo" width="225">
 
 ## For more customization or assistance, check out my Fiverr service: [https://www.fiverr.com/s/WpKKPR](https://www.fiverr.com/s/WpKKPR)
 
